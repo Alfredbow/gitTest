@@ -2,7 +2,7 @@
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
 
-全网最简单易上手，可读性最强的 AST 处理工具！
+全网最简单易上手，可读性最强的 AST 处理工具！代码转换从未如此简单!
 
 官网：https://gogocode.io
 
@@ -12,7 +12,7 @@
 
 GoGoCode服务+交流钉钉群：34266233；qq群：735216094
 
-# Install
+# Install 废弃
 
 ```
     npm install gogocode
