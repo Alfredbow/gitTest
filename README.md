@@ -2,7 +2,7 @@
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
 
-全网最简单易上手，可读性最强的 AST 处理工具！
+东半球和北半球最简单易上手，可读性最强的 AST 处理工具！
 
 官网：https://gogocode.io
 
